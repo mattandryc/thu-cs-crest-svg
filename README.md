@@ -1,3 +1,3 @@
-清华大学校徽的SVG
-fill="#7C2E9A"
+清华大学校徽SVG
+fill="#6416A6"
 width="1024px" height="1024px"
