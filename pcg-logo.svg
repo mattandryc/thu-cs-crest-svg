@@ -1,0 +1,21 @@
+<svg width="629px" height="120px" viewBox="0 0 629 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#181E6D" offset="0%"></stop>
+            <stop stop-color="#016FBA" offset="66.0833634%"></stop>
+            <stop stop-color="#0071BC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+        <text id="title" font-family="Roboto-BoldCondensed, Roboto" font-size="31.5" font-style="condensed" font-weight="bold" letter-spacing="0.150000002" fill="#0A0A0A">
+            <tspan x="138" y="41">Pervasive Human Computer Interaction</tspan>
+        </text>
+        <text font-family="Roboto-Regular, Roboto" font-size="19.5" font-weight="normal" letter-spacing="-0.179999996" fill="#757575">
+            <tspan x="138" y="72">Department of Computer Science and Technolog</tspan>
+            <tspan x="551.424727" y="72">y</tspan>
+        </text>
+        <text font-family="Roboto-Regular, Roboto" font-size="19.5" font-weight="normal" letter-spacing="-0.179999996" fill="#757575">
+            <tspan x="138" y="99">Tsinghua University</tspan>
+        </text>
+        <rect fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="120" height="120"></rect>
+        <path d="M80.6183083,36.0329372 C79.0397535,62.128089 78.2504762,76.4981745 78.2504762,79.1431937 C78.2504762,82.8325373 80.0326178,83.8929701 82.5652033,83.8929701 C84.0057571,83.8929701 87.3670492,82.0446091 89.7679722,79.7341579 C93.4493874,76.3454961 94.249695,76.037436 94.249695,78.3478872 C94.249695,82.1986392 76.1224427,97.0569041 69.9424667,90.2305602 C67.216589,87.2195812 67.216589,83.7888331 66.9906691,78.5974774 C66.8400558,75.1365736 67.7752275,60.9483935 69.796184,36.0329372 L48.2013394,36.0329372 L44.6999148,86.2888923 L33.4605154,90.548039 L37.2586826,36.0329372 L24,36.0329372 L32.3333333,27 L99,27 L90.6666667,36.0329372 L80.6183083,36.0329372 Z"  fill="#FFFFFF" fill-rule="nonzero"></path>
+</svg>
